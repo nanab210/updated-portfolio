@@ -3,10 +3,10 @@
 ## Overview
 
 - This website was built to show off my work as a Front End Developer.
-- It's an updated version of my original one that was created as a final project of the Bootcamp I attended at Skillcrush.
+- It's an updated version of my original one created as a final project of the Bootcamp I attended at Skillcrush.
 - In this updated version I changed the color scheme and font family.
 
-LIVE LINK: https://nataliaborges.me/
+LIVE LINK: coming soon!
 
 ## Features
 
